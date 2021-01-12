@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=#784B84&height=150&section=header&text=Yaeman%20Choi&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=soft&color=6693f5&height=150&section=header&text=Yaeman%20Choi&fontSize=90&fontColor=d6ace6&animation=twinkling)
 
 <h3 align="center"> 👋 Hi there 👋 </h3>
 <p align="center">
