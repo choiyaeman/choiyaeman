@@ -21,4 +21,4 @@ HI! My name is Yaeman Choi
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choiyaeman&layout=compact&theme=radical)](https://github.com/choiyaeman)
 
-![footer](https://capsule-render.vercel.app/api?type=slice&color=#784B84&height=150&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=slice&color=#784B84&height=150&section=footer&rotate=-90)
