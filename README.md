@@ -1,14 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=150&section=header&text=Yaeman%20Choi&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=150&section=header&text=Yaeman%20Choi&fontSize=90&animation=fadeIn)
 
 
 <h3 align="center"> 👋 Hi there 👋 </h3>
 <p align="center">
 HI! My name is Yaeman Choi
 </p>
-
-![choiyaeman's github stats](https://github-readme-stats.vercel.app/api?username=choiyaeman&show_icons=true&theme=merko)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choiyaeman&layout=compact&theme=radical)](https://github.com/choiyaeman)
 
 <h3 align="center"> 📚 Technology Stack 📚 </h3>
 
@@ -21,3 +17,10 @@ HI! My name is Yaeman Choi
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchoiyaeman&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
+
+![choiyaeman's github stats](https://github-readme-stats.vercel.app/api?username=choiyaeman&show_icons=true&theme=merko)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choiyaeman&layout=compact&theme=radical)](https://github.com/choiyaeman)
+
+
+![footer](https://capsule-render.vercel.app/api?section=footer)
