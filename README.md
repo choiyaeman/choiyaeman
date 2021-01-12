@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=#784B84&height=150&section=header&text=Yaeman%20Choi&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rect&color=#784B84&height=150&section=header&text=Yaeman%20Choi&fontSize=90)
 
 <h3 align="center"> 👋 Hi there 👋 </h3>
 <p align="center">
@@ -17,8 +17,4 @@ HI! My name is Yaeman Choi
 
 </div>
 
-![choiyaeman's github stats](https://github-readme-stats.vercel.app/api?username=choiyaeman&show_icons=true&theme=merko)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choiyaeman&layout=compact&theme=radical)](https://github.com/choiyaeman)
-
-![footer](https://capsule-render.vercel.app/api?type=slice&color=#784B84&height=150&section=footer&rotate=-90)
+![choiyaeman's github stats](https://github-readme-stats.vercel.app/api?username=choiyaeman&show_icons=true&theme=merko)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choiyaeman&layout=compact&theme=radical)](https://github.com/choiyaeman)
