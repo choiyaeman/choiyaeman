@@ -14,7 +14,7 @@ HI! My name is Yaeman Choi
 
 ![choiyaeman's github stats](https://github-readme-stats.vercel.app/api?username=choiyaeman&show_icons=true&theme=merko)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choiyaeman&layout=compact&theme=radical)](https://github.com/choiyaeman)
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=choiyaeman)](https://solved.ac/choiyeaman)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?bo=choiyaeman)](https://solved.ac/choiyeaman)
 
 <div align=center>
   
